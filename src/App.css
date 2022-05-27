@@ -1,5 +1,11 @@
 .App {
-  text-align: center;
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    /* background-color: rgb(238, 238, 238); */
+    display:block;
+    box-sizing: border-box;
 }
 
 .App-logo {
