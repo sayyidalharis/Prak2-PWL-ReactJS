@@ -24,7 +24,7 @@ const Footer = () => {
 					width="48"
 				/>
 			</a>	
-			<a href="https://github.com/sayyidalhrs" target={`_blank`}>
+			<a href="https://github.com/sayyidalharis" target={`_blank`}>
 				<Icon
 					className={classes.icon}
 					icon="akar-icons:github-fill"
@@ -34,7 +34,7 @@ const Footer = () => {
 			<a href="/" >
 				<Icon className={classes.icon} icon="simple-icons:gmail" width="48" />
 			</a>
-			<a href="https://discord.gg/x2tKucs" target={`_blank`}>
+			<a href="https://discord.com/invite/holofans" target={`_blank`}>
 				<Icon className={classes.icon} icon="bi:discord" width="48" />
 			</a>
 		</footer>

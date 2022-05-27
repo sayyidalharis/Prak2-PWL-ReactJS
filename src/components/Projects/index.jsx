@@ -15,7 +15,7 @@ export const Project = () => {
 					className={classes.project}
 					onClick={() =>
 						window.open(
-							"github.com/meepshere/Tubes-PBO"
+							"https://github.com/akmal09/Tubes-PWL"
 						)
 					}
 				>
@@ -33,7 +33,7 @@ export const Project = () => {
 					className={classes.project}
 					onClick={() =>
 						window.open(
-							"https://github.com/Team7x/Database-Term-Project"
+							"https://www.figma.com/file/iHJHHNnM9vAvyQdT4ne2e0/IMK-Project-1?node-id=0%3A1"
 						)
 					}
 				>
@@ -53,7 +53,7 @@ export const Project = () => {
 					className={classes.project}
 					onClick={() =>
 						window.open(
-							"https://github.com/meepshere/Tubes-PBO"
+							"https://github.com/Crymlll/darma-bangsa-news"
 						)
 					}
 				>
@@ -71,7 +71,7 @@ export const Project = () => {
 					className={classes.project}
 					onClick={() =>
 						window.open(
-							"https://github.com/Team7x/Database-Term-Project"
+							"https://github.com/meepshere/IF3028-TUBESPEMWEB-RA-RC-2021"
 						)
 					}
 				>
