@@ -25,7 +25,7 @@ const Contact = () => {
     //make function to getuser from api
     const getUsers = async () => {
         const response = await axios.get(
-            "http://localhost:8000/api/komentars"
+            "https://server-sayyidh.herokuapp.com/api/komentars"
         )
         console.log(response.data)
         setCountComment(response.data.length)
@@ -35,7 +35,7 @@ const Contact = () => {
 	const deleteComment = async (id) => {
 		try {
 			await axios.delete(
-                `http://localhost:8000/api/komentars/${id}`
+                `https://server-sayyidh.herokuapp.com/api/komentars/${id}`
 			)
 			getUsers()
 		} catch (err) {
@@ -50,7 +50,7 @@ const Contact = () => {
 			if (dataUser.name.length === 0) dataUser.name = "Anonymous"
 
             const response = await axios.post(
-                "http://localhost:8000/api/komentars",
+                "https://server-sayyidh.herokuapp.com/api/komentars",
                 dataUser
             )   
             console.log(response.data)
