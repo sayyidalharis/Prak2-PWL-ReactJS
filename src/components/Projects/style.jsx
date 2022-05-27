@@ -26,6 +26,7 @@ const styles = createUseStyles({
     },
     img: {
       width: "480px",
+      height: "270px",
       objectFit: "cover",
     },
     project: {
