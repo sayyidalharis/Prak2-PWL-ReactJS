@@ -16,42 +16,42 @@ const Skills = () => {
                             <Icon icon="simple-icons:javascript" />
                         </span>
                         <h4 className={classes.h4Skill}>JavaScript</h4>
-                        <p>3 months</p>
+                        <p>2 years</p>
                     </div>
                     <div className={classes.colSkill}>
                         <span className={classes.iconSkill}>
                             <Icon icon="simple-icons:java" />
                         </span>
                         <h4 className={classes.h4Skill}>Java</h4>
-                        <p>3 months</p>
+                        <p>9 months</p>
                     </div>
                     <div className={classes.colSkill}>
                         <span className={classes.iconSkill}>
                             <Icon icon="simple-icons:python" />
                         </span>
                         <h4 className={classes.h4Skill}>Python</h4>
-                        <p>3 months</p>
+                        <p>5 years </p>
                     </div>
                     <div className={classes.colSkill}>
                         <span className={classes.iconSkill}>
                             <Icon icon="simple-icons:php" />
                         </span>
                         <h4 className={classes.h4Skill}>PHP</h4>
-                        <p>3 months</p>
+                        <p>10 months </p>
                     </div>
                     <div className={classes.colSkill}>
                         <span className={classes.iconSkill}>
                             <Icon icon="bx:bxl-c-plus-plus" />
                         </span>
                         <h4 className={classes.h4Skill}>C++</h4>
-                        <p>3 months</p>
+                        <p>3 years</p>
                     </div>
                     <div className={classes.colSkill}>
                         <span className={classes.iconSkill}>
                             <Icon icon="simple-icons:react" />
                         </span>
                         <h4 className={classes.h4Skill}>ReactNative</h4>
-                        <p>3 months</p>
+                        <p>11 months</p>
                     </div>
                 </div>
             </div>
